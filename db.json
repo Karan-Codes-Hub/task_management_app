@@ -1,0 +1,60 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Learn Angular",
+      "important": true,
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "2",
+      "title": "Set up project environment",
+      "important": true,
+      "status": "in_progress",
+      "priority": "high"
+    },
+    {
+      "id": "3",
+      "title": "Write API service",
+      "important": true,
+      "status": "not_completed",
+      "priority": "medium"
+    },
+    {
+      "id": "4",
+      "title": "Design UI",
+      "important": true,
+      "status": "completed",
+      "priority": "high"
+    },
+    {
+      "id": "5",
+      "title": "Test application",
+      "important": true,
+      "status": "not_completed",
+      "priority": "medium"
+    },
+    {
+      "id": "ea29",
+      "title": "set up git",
+      "status": "in_progress",
+      "important": true,
+      "priority": "high"
+    },
+    {
+      "id": "f003",
+      "title": "revise os",
+      "status": "not_completed",
+      "priority": "low"
+    },
+    {
+      "id": "9dc0",
+      "title": "solve dsa"
+    },
+    {
+      "id": "7216",
+      "title": "watch tv"
+    }
+  ]
+}

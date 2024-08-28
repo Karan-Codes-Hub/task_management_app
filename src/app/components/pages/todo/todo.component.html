@@ -1,0 +1,9 @@
+<app-page-title></app-page-title>
+<div class="flex flex-col mt-6">
+  <app-task-list [taskList]="taskList"
+   (complete)="onComplete($event)" 
+  (important)="onImportant($event)"
+  (inProgres) = "onInProgress($event)"
+  (inComplete) = "onInComplete($event)"></app-task-list>
+  <button class="export-button" (click)="exportTasks()">Export to Excel</button>
+</div>
